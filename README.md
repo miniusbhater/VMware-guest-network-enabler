@@ -1,2 +1,4 @@
 # VMware-guest-network-enabler
-Silly script to enable VMware guest networking on arch and arch based distros
+
+
+Im aware this is mostly pointless but oh well!
